@@ -15,8 +15,11 @@
  https://pokemonviewer.netlify.app/
  
  # Usage
+ 
  $ git clone https://github.com/ssaboorr/Pokemon-viewer.git
+ 
  $ cd Pokemon-viewer
+ 
  open in Vs code or anu IDE and run Index.html
 
 ![image1](https://user-images.githubusercontent.com/48275468/147498325-3fc9921e-2491-4834-9a4e-e64fbaa9745a.png)
